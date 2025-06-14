@@ -1,0 +1,31 @@
+Region,ProductCategory,ProductSubCategory,SalesChannel,CustomerSegment,SalesRep,StoreType,SalesDate,UnitsSold,Revenue
+North,Electronics,Mobile,Online,Consumer,Alice,Urban,7/21/2023,10,1000
+South,Clothing,Shirt,Offline,Corporate,Bob,Suburban,1/28/2024,20,1500
+East,Furniture,Table,Retail,Home Office,Charlie,Rural,2/22/2025,15,1200
+West,Groceries,Vegetables,Wholesale,Small Business,Diana,Metro,1/24/2023,30,3000
+North,Electronics,Mobile,Online,Consumer,Alice,Urban,1/31/2025,12,1100
+South,Clothing,Shirt,Offline,Corporate,Bob,Suburban,6/27/2023,25,2500
+East,Furniture,Table,Retail,Home Office,Charlie,Rural,6/2/2022,22,2200
+West,Groceries,Vegetables,Wholesale,Small Business,Diana,Metro,12/29/2024,18,1800
+North,Electronics,Mobile,Online,Consumer,Alice,Urban,6/4/2025,10,1000
+South,Clothing,Shirt,Offline,Corporate,Bob,Suburban,3/16/2024,20,1500
+East,Furniture,Table,Retail,Home Office,Charlie,Rural,11/25/2024,15,1200
+West,Groceries,Vegetables,Wholesale,Small Business,Diana,Metro,10/29/2023,30,3000
+North,Electronics,Mobile,Online,Consumer,Alice,Urban,6/25/2020,12,1100
+South,Clothing,Shirt,Offline,Corporate,Bob,Suburban,12/23/2022,25,2500
+East,Furniture,Table,Retail,Home Office,Charlie,Rural,1/21/2022,22,2200
+West,Groceries,Vegetables,Wholesale,Small Business,Diana,Metro,4/27/2024,18,1800
+North,Electronics,Mobile,Online,Consumer,Alice,Urban,5/9/2023,10,1000
+South,Clothing,Shirt,Offline,Corporate,Bob,Suburban,7/8/2022,20,1500
+East,Furniture,Table,Retail,Home Office,Charlie,Rural,2/13/2021,15,1200
+West,Groceries,Vegetables,Wholesale,Small Business,Diana,Metro,6/12/2024,30,3000
+North,Electronics,Mobile,Online,Consumer,Alice,Urban,2/7/2023,12,1100
+South,Clothing,Shirt,Offline,Corporate,Bob,Suburban,5/29/2022,25,2500
+East,Furniture,Table,Retail,Home Office,Charlie,Rural,1/31/2025,22,2200
+West,Groceries,Vegetables,Wholesale,Small Business,Diana,Metro,7/2/2021,18,1800
+North,Electronics,Mobile,Online,Consumer,Alice,Urban,1/27/2021,10,1000
+South,Clothing,Shirt,Offline,Corporate,Bob,Suburban,11/9/2021,20,1500
+East,Furniture,Table,Retail,Home Office,Charlie,Rural,3/23/2023,15,1200
+West,Groceries,Vegetables,Wholesale,Small Business,Diana,Metro,11/8/2021,30,3000
+North,Electronics,Mobile,Online,Consumer,Alice,Urban,10/15/2021,12,1100
+South,Clothing,Shirt,Offline,Corporate,Bob,Suburban,11/26/2021,25,2500

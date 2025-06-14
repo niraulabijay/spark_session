@@ -1,0 +1,8 @@
+Using fact_sales.csv file provided, create DIM for each Dimensional value provided, as demonstrated in class. There should be 8 dimensions total. 
+Detailed requirements:
+	1. Create 8 Dimensions based on the provided FACT table.
+	2. For Sales Date table create DIM_Date based on Min and Max of date range within that table. Columns should be DIM_DateID, Date, MonthName, Year, Semester, Quarter (Use Min Year and Max Year)
+	3. Replace all the FACT table columns with the keys (excl. fact values). 
+	4. Each DIM and FACT should have their own notebook. 
+	5. Also create a separate notebook, joining the DIM and FACT using those keys you created, and performing analytics. Do that for all the DIMs. 
+	6. Upload all the notebooks to your git repo and send me the link to your repo with screenshot of all the notebooks being present there.
