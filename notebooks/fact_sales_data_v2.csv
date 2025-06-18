@@ -1,0 +1,31 @@
+ProductCategory,ProductName,Brand,StoreRegion,StoreName,StoreType,SalesRep,Department,EmployeeRole,UnitsSold,UnitPrice,Discount,SaleDate
+Furniture,T-shirt,BrandB,East,StoreX,Franchise,Martha Long,Electronics,Cashier,12.0,-1.0,5.0,2022-12-14
+Clothing,Tablet,BrandC,East,StoreZ,Franchise,Martha Long,Home,Sales Associate,,272.49,,2023-02-24
+Clothing,Tablet,BrandA,South,StoreX,Retail,Emily Vazquez,Apparel,Cashier,,484.75,15.0,2025-03-24
+Electronics,Smartphone,BrandB,West,StoreY,Outlet,Charles Fields,Apparel,Cashier,,205.74,10.0,2023-09-30
+Furniture,T-shirt,BrandC,East,StoreZ,Outlet,Wendy Castillo,Home,Manager,46.0,20.25,5.0,2022-10-14
+Furniture,T-shirt,BrandC,South,StoreY,Retail,Wendy Castillo,Home,Manager,,361.06,10.0,2024-02-23
+Clothing,T-shirt,BrandC,South,StoreY,Outlet,John Harris,Home,Cashier,37.0,492.65,5.0,2024-05-06
+Electronics,Smartphone,BrandC,South,StoreX,Outlet,Charles Fields,Home,Sales Associate,37.0,293.87,15.0,2023-04-04
+Clothing,Jeans,BrandA,South,StoreY,Retail,Wendy Castillo,Electronics,Manager,23.0,189.47,15.0,2022-12-26
+Furniture,T-shirt,BrandB,East,StoreZ,Franchise,Charles Fields,Apparel,Manager,25.0,359.08,10.0,2022-10-28
+Clothing,Desk,BrandC,South,StoreZ,Retail,Wendy Castillo,Home,Manager,,438.28,,2025-05-12
+Clothing,Desk,BrandB,North,StoreZ,Retail,Kelly Moore,Apparel,Sales Associate,,-1.0,0.0,2024-11-14
+Electronics,Tablet,BrandB,North,StoreX,Outlet,Kara Lewis,Electronics,Manager,,490.01,,2025-05-20
+Furniture,Tablet,BrandC,East,StoreX,Retail,Emily Vazquez,Apparel,Manager,15.0,139.58,5.0,2023-11-09
+Electronics,Chair,BrandA,West,StoreY,Franchise,James Austin,Electronics,Cashier,,67.66,15.0,2025-03-27
+Electronics,Desk,BrandA,East,StoreX,Franchise,Emily Vazquez,Home,Manager,19.0,330.2,10.0,2022-12-16
+Furniture,T-shirt,BrandC,West,StoreY,Franchise,Martha Long,Home,Cashier,7.0,290.63,15.0,2022-07-28
+Electronics,Desk,BrandC,North,StoreY,Outlet,Charles Fields,Home,Cashier,7.0,349.27,10.0,2022-07-04
+Furniture,Jeans,BrandC,East,StoreZ,Franchise,Wendy Castillo,Home,Manager,,267.61,0.0,2022-11-27
+Electronics,Jeans,BrandB,East,StoreZ,Outlet,James Austin,Home,Manager,41.0,52.57,,2025-03-16
+Clothing,,BrandB,East,StoreZ,Franchise,Kyle Lin,Electronics,Manager,,85.99,0.0,2024-03-05
+Electronics,T-shirt,BrandA,South,StoreX,Retail,Kelly Moore,Apparel,Sales Associate,,-1.0,5.0,2025-04-06
+Furniture,,BrandA,South,StoreZ,Retail,Billy Perez,Apparel,Sales Associate,22.0,444.29,,2024-03-05
+Clothing,Desk,BrandB,North,StoreX,Franchise,John Harris,Apparel,Manager,41.0,283.25,,2023-02-06
+Furniture,,BrandA,North,StoreZ,Franchise,Charles Fields,Home,Cashier,16.0,238.49,0.0,2024-08-27
+Clothing,Jeans,BrandC,North,StoreY,Retail,Kyle Lin,Electronics,Sales Associate,,414.77,0.0,2023-01-18
+Furniture,Smartphone,BrandC,West,StoreX,Retail,Kyle Lin,Home,Cashier,,21.38,5.0,2022-10-11
+Furniture,Desk,BrandB,West,StoreX,Outlet,John Harris,Electronics,Manager,,279.35,,2023-10-11
+Furniture,Tablet,BrandA,South,StoreY,Retail,Billy Perez,Electronics,Cashier,37.0,415.6,15.0,2022-08-23
+Furniture,Desk,BrandA,South,StoreZ,Franchise,Emily Vazquez,Electronics,Sales Associate,,359.04,0.0,2024-01-20
