@@ -1,0 +1,4 @@
+ProductCategory,ProductCategoryID,CategoryGroup
+Laptop,101,Computing
+Mobile,102,Electronics
+Tablet,103,Computing

@@ -5,7 +5,7 @@ services:
     ports:
       - "8888:8888"
     volumes:
-      - ./notebooks:/home/jovyan/work
+      - ./factWithMapping:/home/jovyan/work
     environment:
       - SPARK_OPTS=--jars https://repo1.maven.org/maven2/io/delta/delta-core_2.12/1.0.0/delta-core_2.12-1.0.0.jar
       - PYSPARK_SUBMIT_ARGS=--packages io.delta:delta-core_2.12:1.0.0 pyspark-shell

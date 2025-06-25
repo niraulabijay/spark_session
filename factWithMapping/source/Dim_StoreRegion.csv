@@ -1,0 +1,5 @@
+StoreRegion,RegionID,Territory
+North,1,A
+South,2,B
+East,3,C
+West,4,D

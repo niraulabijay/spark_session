@@ -1,0 +1,11 @@
+TransactionID,ProductCategory,StoreRegion,CustomerType,Amount
+1,Laptop,North,Retail,1200
+2,Mobile,South,Wholesale,800
+3,Tablet,East,Retail,300
+4,Laptop,West,Retail,1500
+5,Tablet,North,Wholesale,400
+6,Mobile,East,Retail,900
+7,Mobile,South,Retail,850
+8,Laptop,West,Wholesale,1700
+9,Tablet,East,Retail,350
+10,Mobile,North,Retail,950
